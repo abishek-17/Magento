@@ -30,5 +30,5 @@ This project is an automated UI testing framework for the Magento e-commerce web
 ## Troubleshooting
 
 *   Ensure the `chromedriver.exe` path is correctly set in `BrowserDriver.java`
-*   Use `WebDriverWait` for dynamically loading elements
+*   Use `WebDriverWait` for dynamically loading elements.
 
